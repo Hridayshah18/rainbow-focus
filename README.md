@@ -168,26 +168,16 @@ The interface uses CSS transforms for smooth motion, a small reusable confetti p
 
 ## 📸 Screenshots
 
-```md
-[Add screenshot here]
-```
-
-Suggested screenshots:
-
-- Start screen
-- Active sequence playback
-- Game Over screen
-- Mobile layout
+<img width="905" height="847" alt="Rainbow Flow Screenshot" src="https://github.com/user-attachments/assets/f10cc6e7-2f1b-49b5-a6a8-22d77d6588f2" />
 
 ---
 
 ## 🌐 Live Demo
 
-```md
-[Add GitHub Pages live demo link here]
-```
+[Play Rainbow Flow here](https://YOUR_USERNAME.github.io/rainbow-flow/)
 
 ---
+
 
 ## ⚠️ Limitations & Future Work
 
