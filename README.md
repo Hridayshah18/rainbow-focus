@@ -174,8 +174,8 @@ The interface uses CSS transforms for smooth motion, a small reusable confetti p
 
 ## 🌐 Live Demo
 
-[Play Rainbow Flow here](https://YOUR_USERNAME.github.io/rainbow-flow/)
-
+[[Play Rainbow Flow here](https://YOUR_USERNAME.github.io/rainbow-flow/)
+](https://expressit.online/games/rainbow-flow)
 ---
 
 
